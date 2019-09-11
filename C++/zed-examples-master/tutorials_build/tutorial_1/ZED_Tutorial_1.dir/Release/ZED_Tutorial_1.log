@@ -1,0 +1,6 @@
+﻿  Building Custom Rule E:/RPX/gitpod/zed-examples-master/tutorials/tutorial 1 - hello ZED/CMakeLists.txt
+  cl : Command line warning D9002 : ignoring unknown option '-std=c++11'
+  cl : Command line warning D9002 : ignoring unknown option '-g'
+  cl : Command line warning D9002 : ignoring unknown option '-O3'
+  main.cpp
+  ZED_Tutorial_1.vcxproj -> E:\RPX\gitpod\zed-examples-master\tutorials_build\tutorial_1\Release\ZED_Tutorial_1.exe
